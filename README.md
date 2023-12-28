@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cubee021/cubee021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
