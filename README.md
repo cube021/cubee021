@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p><strong>Once I've used</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
     </div>
 
 ## 👀 Language
