@@ -23,8 +23,10 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
     </div>
 
+
 ## 👀 Language
 ### <img src="https://img.shields.io/badge/Korean English Japanese-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
+
 
 ## 💭 Wanting to have
 ### <img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white"> <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white"> <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"> <img src="https://img.shields.io/badge/PS5-003791?style=for-the-badge&logo=playstation5&logoColor=white">
