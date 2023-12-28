@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ## 👀 Language
 ### <img src="https://img.shields.io/badge/Korean English Japanese-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
 
-## 💭 NaMan UpSeo
+## 💭 Wanting
 ### <img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white"> <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white"> <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
